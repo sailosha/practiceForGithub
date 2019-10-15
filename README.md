@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+The purpose of this project is to demonstrate the fork and pull features of Github.
 
 ## Getting Started
 
